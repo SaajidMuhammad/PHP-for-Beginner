@@ -1,7 +1,8 @@
 # PHP-for-Beginner
 
-- This was created for complete College Assignment
+- This was created for complete my College Assignment
 - Any one can Download and Use/Edit It
+- If you see any errors or wrong Codes you're free to fix them
 
 ## Required Tools
 
