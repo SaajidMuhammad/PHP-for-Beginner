@@ -1,0 +1,119 @@
+#content{
+	height: 1593px;
+	
+}
+
+#list-grp a {
+	background-color:black;
+	color:white;
+	margin-bottom:1px;
+}
+
+#list-grp a:hover {
+	background-color:gray;
+	color:white;
+	
+}
+
+#code_input{
+	
+}
+
+#code_show input{
+	width: 100px;
+	margin-bottom:5px;
+}
+
+#code_show button{
+	margin-left:176px;
+}
+
+#code_show1 input{
+	width: 120px;
+	margin-bottom:5px;
+}
+
+#code_show2 button{
+	margin-left:153px;
+}
+
+#code_show2 input{
+	width: 100px;
+	margin-bottom:5px;
+}
+#code_show2 form{
+	padding-bottom:30px;
+	
+}
+#code_show1 form{
+	padding-bottom:30px;
+	
+}
+#code_show form{
+	padding-bottom:30px;
+	
+}
+
+#code_show3 form{
+	padding-bottom:30px;
+	
+}
+
+#code_show3 input{
+	margin-bottom: 5px;
+}
+
+#code_show3 button{
+	margin-bottom: 5px;
+	margin-left:190px;
+	width: 100px;
+}
+#code_show3 h3{
+	text-align: center;
+}
+
+#code_show3 input{
+	width: 120px;
+	margin-bottom:5px;
+}
+
+#code_show3 button{
+	margin-left:106px;
+	width: 80px;
+}
+
+#code_show4 input{
+	width: 120px;
+	margin-bottom:5px;
+}
+
+#code_show4 button{
+	margin-left:122px;
+	width: 80px;
+}
+
+#code_show4{
+	height: 350px;
+	overflow-y : scroll;
+}
+#code_show5 input{
+	width: 120px;
+	margin-bottom:5px;
+}
+
+#code_show5 button{
+	margin-left:172px;
+	margin-bottom: 50px;
+}
+#code_show6 input{
+	width: 100px;
+	margin-bottom:5px;
+}
+
+#code_show6 button{
+	margin-top: 10px;
+	width :33px;
+	height :33px;
+	border-radius: 2px;
+	margin-bottom: 50px;
+}
